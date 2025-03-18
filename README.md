@@ -1,4 +1,4 @@
-# YWCA Mobile App Program - Android Development Projects
+# OOP345 - Lectures and Labs after Reading Week
 
 1. Week 7 Project [Week 7][1] - Introduction to Containers and Iterators
 2. Week 7 - Files [Week 7 - Lab Session][2]:
