@@ -18,10 +18,10 @@
   * Reading Employee's vector from a binary file.
   * Searching for one employee in a binary file
   * In main2.cpp: Algorithms examples (fine,count_if)
-3. Week 9 - Pointers [Week 9 - Pointers][4]
+4. Week 9 - Pointers [Week 9 - Pointers][4]
   * Raw pointers and Smart Pointers (unique and shared pointers).
     
-4- Week 10 - Multi-Threading [Week 10 - Multi-Threading][5]
+5. Week 10 - Multi-Threading [Week 10 - Multi-Threading][5]
   * Thread library.
   * Thread with a function and with lambda.
   * Count how many time each thread print in one second.
