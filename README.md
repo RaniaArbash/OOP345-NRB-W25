@@ -10,6 +10,18 @@
   * compTxtIn: Search for a value in a text file
   * comBinout: Writing a vector of Employee to a binary file
   * comBinout: Search for a value in a binary file
+3. Week 8 - Files [Week 8 - Files - Containers][3]:
+  * Writing Employee's vector to a text file.
+  * Reading Employee's vector from a text file.
+  * Searching for one employee in a text file.
+  * Writing Employee's vector to a binary file.
+  * Reading Employee's vector from a binary file.
+  * Searching for one employee in a binary file
+  * In main2.cpp: Algorithms examples (fine,count_if)
+    
+
+
    
 [1]: https://github.com/RaniaArbash/OOP345-NRB-W25/tree/main/Week7          
 [2]: https://github.com/RaniaArbash/OOP345-NRB-W25/tree/main/Week7-Files          
+[3]: https://github.com/RaniaArbash/OOP345-NRB-W25/tree/main/Week8-Files%20-%20Containers
