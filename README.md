@@ -20,7 +20,11 @@
   * In main2.cpp: Algorithms examples (fine,count_if)
 3. Week 9 - Pointers [Week 9 - Pointers][4]
   * Raw pointers and Smart Pointers (unique and shared pointers)
-
+4- Week 10 - Multi-Threading [Week 10 - Multi-Threading][5]
+  * Thread library.
+  * Thread with a function and with lambda.
+  * Count how many time each thread print in one second.
+     
 
 
    
@@ -28,3 +32,4 @@
 [2]: https://github.com/RaniaArbash/OOP345-NRB-W25/tree/main/Week7-Files          
 [3]: https://github.com/RaniaArbash/OOP345-NRB-W25/tree/main/Week8-Files%20-%20Containers
 [4]: https://github.com/RaniaArbash/OOP345-NRB-W25/tree/main/Week%209%20-%20Pointers
+[5]: https://github.com/RaniaArbash/OOP345-NRB-W25/tree/main/Week%2010%20-%20Lecture
