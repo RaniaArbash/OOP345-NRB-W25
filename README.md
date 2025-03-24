@@ -25,12 +25,17 @@
   * Thread library.
   * Thread with a function and with lambda.
   * Count how many time each thread print in one second.
+
+6. Week 10 - lab - Multi-Threading [Week 10 Lab - Multi-Threading][6]
+  * Atomic
+  * Mutex
+  * Lock-gaurd
+  * Thread Vector
      
-
-
    
 [1]: https://github.com/RaniaArbash/OOP345-NRB-W25/tree/main/Week7          
 [2]: https://github.com/RaniaArbash/OOP345-NRB-W25/tree/main/Week7-Files          
 [3]: https://github.com/RaniaArbash/OOP345-NRB-W25/tree/main/Week8-Files%20-%20Containers
 [4]: https://github.com/RaniaArbash/OOP345-NRB-W25/tree/main/Week%209%20-%20Pointers
 [5]: https://github.com/RaniaArbash/OOP345-NRB-W25/tree/main/Week%2010%20-%20Lecture
+[6]: https://github.com/RaniaArbash/OOP345-NRB-W25/tree/main/Week%2010%20-%20Lab
