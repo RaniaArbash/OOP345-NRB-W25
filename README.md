@@ -31,7 +31,12 @@
   * Mutex
   * Lock-gaurd
   * Thread Vector
-     
+
+7- Week 11 - lecture - Macros and 2D Arrays [Week 11 Lecture - Macros][7]
+  * Macros - define and include
+  * Macros - Side effect of Macro
+  * 2D arrays and arrays of pointers 
+
    
 [1]: https://github.com/RaniaArbash/OOP345-NRB-W25/tree/main/Week7          
 [2]: https://github.com/RaniaArbash/OOP345-NRB-W25/tree/main/Week7-Files          
@@ -39,3 +44,4 @@
 [4]: https://github.com/RaniaArbash/OOP345-NRB-W25/tree/main/Week%209%20-%20Pointers
 [5]: https://github.com/RaniaArbash/OOP345-NRB-W25/tree/main/Week%2010%20-%20Lecture
 [6]: https://github.com/RaniaArbash/OOP345-NRB-W25/tree/main/Week%2010%20-%20Lab
+[7]: https://github.com/RaniaArbash/OOP345-NRB-W25/tree/main/Week%2011%20-%20Lecture
