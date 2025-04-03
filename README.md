@@ -37,6 +37,10 @@
   * Macros - Side effect of Macro
   * 2D arrays and arrays of pointers 
 
+8- Week 12 - Lab - Multiple Inheritance and Bitwise Operators [Week 12 - Lecture][8]
+  * Multiple-Inheritance
+  * Virtual Inheritance
+  * Bitwise Operators
    
 [1]: https://github.com/RaniaArbash/OOP345-NRB-W25/tree/main/Week7          
 [2]: https://github.com/RaniaArbash/OOP345-NRB-W25/tree/main/Week7-Files          
@@ -45,3 +49,4 @@
 [5]: https://github.com/RaniaArbash/OOP345-NRB-W25/tree/main/Week%2010%20-%20Lecture
 [6]: https://github.com/RaniaArbash/OOP345-NRB-W25/tree/main/Week%2010%20-%20Lab
 [7]: https://github.com/RaniaArbash/OOP345-NRB-W25/tree/main/Week%2011%20-%20Lecture
+[8]: https://github.com/RaniaArbash/OOP345-NRB-W25/tree/main/Week%2012%20-%20Lab
