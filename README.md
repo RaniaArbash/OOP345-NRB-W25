@@ -37,7 +37,7 @@
   * Macros - Side effect of Macro
   * 2D arrays and arrays of pointers 
 
-8- Week 12 - Lab - Multiple Inheritance and Bitwise Operators [Week 12 - Lecture][8]
+8- Week 12 - Lecture - Multiple Inheritance and Bitwise Operators [Week 12 - Lecture][8]
   * Multiple-Inheritance
   * Virtual Inheritance
   * Bitwise Operators
